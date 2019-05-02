@@ -1,0 +1,1 @@
+readings for first session
