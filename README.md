@@ -9,4 +9,17 @@ Materials for PEDSnet data science training program
 ### Training session 1 review:
 
 * The recording and slides have been added to this repo for your review  
+* A video recording is also available at https://www.youtube.com/watch?v=cOzJeyVu1gI&t=365s
 * Please complete the exercise session_1_exercise in the exercise folder before April 29
+
+### Training session 2 preparation:
+
+See the reading_materials/session_2 folder
+
+* PEDSnet_Scientific_Specs: a form to be filled out by an investigator in collaboration with a data scientist to define the query and output criteria
+* Procedure_trends: example output from a previous feasibility query
+* PEDSnet_Procedure_Device_Query: an example of an aggregate report
+ 
+
+
+
