@@ -19,6 +19,12 @@ See the reading_materials/session_2 folder
 * PEDSnet_Scientific_Specs: a form to be filled out by an investigator in collaboration with a data scientist to define the query and output criteria
 * Procedure_trends: example output from a previous feasibility query
 * PEDSnet_Procedure_Device_Query: an example of an aggregate report
+
+### Training session 2 review:
+
+* The slides have been added to this repo for your review
+* A video recording is also available at https://www.youtube.com/watch?v=0ZdHmW5QSTc
+* Please complete the exercise session_2_exercise in the exercise folder before June 5
  
 
 
