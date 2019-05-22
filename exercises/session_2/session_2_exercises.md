@@ -10,6 +10,9 @@ The purpose of this exercise is to familiarize you with the specifications form 
 * Part 4: Finalizing Output
 * Part 5: Considerations
 
+Please save all responses to this exercise in the folder (last name first initial) that you created for the first exercise. Answer all open-ended questions in a file called **session_2_exercises**. Also save a copy of the PEDSnet specification form in your folder and populate the appropriate sections according to the specifications in **Part 3**.
+
+
 ### Part 1. Request Description 
 
 An investigator is recently funded to conduct a study using PEDSnet data that characterizes seizure disorders among children with autism spectrum disorder (ASD). The investigator will also identify differences in treatment and outcomes in children with ASD with and without seizure disorders. Therefore, the cohort of interest is all children with autism in PEDSnet, but `cases` also have accompanying seizure disorder and `controls` do not. Treatments in this study are usually drugs that are commonly taken in children with autism such as anti-stimulants and anti-psychotic medications. However, the investigator does not have a complete list. Outcomes are those associated with healthcare utilization (e.g., hospitalizations, ED visits, imaging studies, and more frequent care by a specialist).
