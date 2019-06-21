@@ -25,6 +25,10 @@ See the reading_materials/session_2 folder
 * The slides have been added to this repo for your review
 * A video recording is also available at https://www.youtube.com/watch?v=0ZdHmW5QSTc
 * Please complete the exercise session_2_exercise in the exercise folder before June 5
+
+### Training session 3 preparation:
+
+The third webinar will focus on the ATLAS tool. For some background information you may browse the ATLAS tutorials available on the OHDSI website: https://www.ohdsi.org/resources/tutorials/
  
 
 
