@@ -31,5 +31,10 @@ See the reading_materials/session_2 folder
 The third webinar will focus on the ATLAS tool. For some background information you may browse the ATLAS tutorials available on the OHDSI website: https://www.ohdsi.org/resources/tutorials/
  
 
+### Training session 4 review:
+
+* The slides have been added to this repo for your review
+* A video recording is also available at https://www.youtube.com/watch?v=UZ0ZrqFU58A
+* To complete certification as an informatician, you are required to complete exercise 3 (to be released soon) and to complete certification as an analyst, you are required to complete exercise 4 (to be released soon)
 
 
