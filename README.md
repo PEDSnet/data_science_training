@@ -37,4 +37,9 @@ The third webinar will focus on the ATLAS tool. For some background information 
 * A video recording is also available at https://www.youtube.com/watch?v=UZ0ZrqFU58A
 * To complete certification as an informatician, you are required to complete exercise 3 (to be released soon) and to complete certification as an analyst, you are required to complete exercise 4 (to be released soon)
 
+### Workshop Overview
+
+* The slides and materials from the workshop have been posted to the Confluence page
+* The final exercise has been added to the exercises folder
+
 
