@@ -46,10 +46,13 @@ An investigator is interested in the utilization of anti-epileptic drugs (AED) b
 She is not quite sure what the final report will look like, but she has some ideas:
 
 * The drugs of interest are anti-seizure medications in the ATC class "Antiepileptics". 
-* Frequency of use in children with and without a seizure disorder (and most common disorders)
+* Frequency of use in children with and without a seizure disorder
 * Incidence of use per age group per 1000 person-years (roughly: infants, toddlers, children, adolescents)
 * Most frequent comorbidities in the age group
 * General healthcare utilization patterns in this cohort
 * Kidney function, as measured by median (IRQ) serum creatinine, in treated vs untreated patients
+
+
+Please provide output for all sites. If you are completing specifications and would like to set up a call with the "requestor" (i.e., CHOP DCC team) to answer questions you have about the specifications, please contact us to arrange a call.
 
 
