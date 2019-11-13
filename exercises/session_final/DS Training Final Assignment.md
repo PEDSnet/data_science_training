@@ -26,18 +26,18 @@ The completed assignment will contain the following:
 You have four options for assignment completion; you may choose more than one.  In order to serve as the data center for a PEDSnet projet, a site will need at least 1) one person with Data Science Analyst certification and 2) at least one person with either Clinical Data Researcher or Clinical Informaticist certification on the project.
 
 * **Option A: Clinical Data Researcher** 
-	* Scientific specifications (and all components)
-	* Description of data quality checks to build into query
+	* Scientific specifications (and all components) - **Due November 15**
+	* Description of data quality checks to build into query - **Due November 15**
 * **Option B: ATLAS Specialist**
-	* Given a set of specifications, implement in Atlas and provide output
+	* Given a set of specifications, implement in Atlas and provide output - **Due November 30**
 * **Option C: Clinical Informaticist**
-	* Scientific specifications (and all components)
-	* Description of data quality checks 
-	* Specifications implemented in ATLAS and provide output
-	* Given output from tables from which queries were run, create final report in R markdown
+	* Scientific specifications (and all components) - **Due November 15**
+	* Description of data quality checks - **Due November 15**
+	* Specifications implemented in ATLAS and provide output - **Due November 30**
+	* Given output from tables from which queries were run, create final report in R markdown - **Due December 31**
 * **Option D: Data Science Analyst**
-	* Given a set of specifications, complete query in standard R framework
-	* Final report in R markdown
+	* Given a set of specifications, complete query in standard R framework - **Due December 13**
+	* Final report in R markdown - **Due December 31**
 	
 ### Data Request Overview
 
