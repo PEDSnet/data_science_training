@@ -36,7 +36,7 @@ You have four options for assignment completion; you may choose more than one.  
 	* Specifications implemented in ATLAS and provide output - **Due November 30**
 	* Given output from tables from which queries were run, create final report in R markdown - **Due December 31**
 * **Option D: Data Science Analyst**
-	* Given a set of specifications, complete query in standard R framework - **Due December 13**
+	* Given a set of specifications, complete query in standard R framework - **Due December 31**
 	* Final report in R markdown - **Due December 31**
 	
 ### Data Request Overview
